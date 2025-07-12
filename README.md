@@ -1,6 +1,6 @@
 # TrueSilveredNightmare (TSN)
 
-**TrueSilveredNightmare (TSN)** is a Remote Access Tool (RAT) built with Python for educational and ethical testing purposes. TSN demonstrates the communication between a client-side executable and a locally hosted server, with a web-based frontend interface available at:
+**TrueSilveredNightmare (TSN)** is a Remote Access Tool (RAT) built with Python and NodeJs for educational and ethical testing purposes. TSN demonstrates the communication between a client-side executable and a locally hosted server, with a web-based frontend interface available at:
 
 🔗 **[https://maretyui.com/virus/](https://maretyui.com/virus/)**
 
@@ -27,9 +27,3 @@
 - Flask or FastAPI (depending on backend)
 - ngrok (optional for tunneling if not testing locally)
 - PyInstaller (for building `.exe`)
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/TrueSilveredNightmare.git
-cd TrueSilveredNightmare
