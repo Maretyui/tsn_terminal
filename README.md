@@ -1,5 +1,5 @@
 # 🧠 TrueSilveredNightmare (TSN)
-
+##DISCONTINUED
 **TrueSilveredNightmare (TSN)** is a Python-based Remote Access Tool (RAT) developed for **ethical hacking** demonstrations and **educational purposes only**. It enables a locally hosted server to interact with a client (distributed as an executable `.exe`), which is controlled via a clean web-based frontend:
 
 🌐 **Frontend URL**: [https://maretyui.com/tsn_terminal/](https://maretyui.com/tsn_terminal/)
